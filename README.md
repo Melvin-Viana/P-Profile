@@ -1,7 +1,11 @@
 #FEWD Project :one:
+---
+###Testing web design skills utilizing <span style='color:orange'>HTML</span> and <span style='color:blue'>CSS</span>.
+---
+##Acknowledgements
+---
+- Header Image - Photo creds to [Thomas Tucker](https://unsplash.com/search/photos/japan-red)
 
-Testing web design skills utilizing <span style='color:orange'>HTML</span> and <span style='color:blue'>CSS</span>.
+- [Graphic Burger](https://graphicburger.com/)  👍
 
-Header Image - Photo creds to [Thomas Tucker](https://unsplash.com/search/photos/japan-red)
-
-Icon Creds to  [Graphic Burger](https://graphicburger.com/)  👍
+- [FontAwesome Icons](https://fontawesome.com/)
