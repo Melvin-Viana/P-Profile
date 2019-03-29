@@ -19,7 +19,7 @@ What things you need to install the software and how to install them
 1. Clone the repo
 
 ```
-git clone https://github.com/AlanBayWalker/budgety.git
+git clone https://github.com/Melvin-Viana/p-profile.git
 ```
 
 2. Open Project Folder
@@ -33,7 +33,7 @@ Enjoy :)
 ```
 
 
-##Built With
+## Built With
 - HTML5
 - CSS3
 
