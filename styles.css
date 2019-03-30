@@ -49,9 +49,7 @@ a {
 .nav li {
   padding: 5px 10px 10px 10px;
 }
-.nav a {
-  transition: all 0.5s;
-}
+
 .nav a:hover {
   color: white;
 }
@@ -108,8 +106,9 @@ header .profile-image:hover {
   text-decoration: underline;
   text-decoration-color: #eb4d4b;
 }
-.card h3, .card i{
-  text-align: center ;
+.card h3,
+.card i {
+  text-align: center;
 }
 
 ul.hobbies {
@@ -197,20 +196,20 @@ a.social:hover {
   transition: all 0.5s;
 }
 
+.fas {
+  color: #eb4d4b;
+  margin-bottom: 25px;
+}
 
-
-.fas{color:#eb4d4b;
-  margin-bottom:25px;}
-  
-  .experience{list-style-type: none;
+.experience {
+  list-style-type: none;
   text-align: center;
-  padding:25px;
-  }
-  
-  #web-experience h2{
+  padding: 25px;
+}
+
+#web-experience h2 {
   text-decoration: underline #eb4d4b;
-  }
-  
+}
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
@@ -245,7 +244,4 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
-
-
 }
-
